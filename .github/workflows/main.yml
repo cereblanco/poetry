@@ -8,6 +8,7 @@ on:
     branches:
       - master
       - develop
+      - ci-dev
   pull_request:
     paths-ignore:
       - 'docs/**'
